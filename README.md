@@ -1,3 +1,6 @@
+# My project
+first line
+
 # dotnet-all-star-utils
 Do you have what it takes to be an all star? Then contribute to this awesome collection of utilities to help accelerate development
 
